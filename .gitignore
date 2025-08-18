@@ -1,0 +1,3 @@
+# Ignore compiled Java class files
+# This file is used to specify files and directories that should be ignored by Git.
+*.class
